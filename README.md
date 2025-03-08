@@ -94,11 +94,11 @@ El código está dividido en tres partes principales:
 ## Capturas de Pantalla
 
 ### Ejemplo de archivo `compilador.inf`:
-![compilador.inf](screenshots/compilador_inf.png)
+![compilador.inf](img/compilador_if.png)
 
 ### Ejemplo de archivo `compilador.lr`:
-![compilador.lr](screenshots/compilador_lr.png)
+![compilador.lr](img/compilador_lr.png)
 
 ### Ejemplo de salida del programa:
-![Salida del programa](screenshots/salida_programa.png)
+![Salida del programa](img/salida_programa.png)
 
