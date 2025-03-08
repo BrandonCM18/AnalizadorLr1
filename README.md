@@ -94,7 +94,7 @@ El código está dividido en tres partes principales:
 ## Capturas de Pantalla
 
 ### Ejemplo de archivo `compilador.inf`:
-![compilador.inf](img/compilador_if.png)
+![compilador.inf](img/compilador_inf.png)
 
 ### Ejemplo de archivo `compilador.lr`:
 ![compilador.lr](img/compilador_lr.png)
